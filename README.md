@@ -10,7 +10,7 @@ I'm all about dev-ops, etc.....
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-in/ayush-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/aaditya-desai1/) [![Twitter](https://img.shields.io/badge/TWITTER-ayush-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/imrusheez)
+[![LinkedIn](https://img.shields.io/badge/linkedin-in/aaditya-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/aaditya-desai1/) [![Twitter](https://img.shields.io/badge/TWITTER-aaditya-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/imrusheez)
 
 </div>
 <hr>
@@ -69,6 +69,6 @@ I'm all about dev-ops, etc.....
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30"> Stats
 
 <p align="center">
- 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush-rudani&show_icons=true&hide_border=true&theme=radical" />
+ 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=aaditya-desai1&show_icons=true&hide_border=true&theme=radical" />
 	<img width="48%" src="https://streak-stats.demolab.com/?user=ayush-rudani&theme=dark"> 
 </p>
